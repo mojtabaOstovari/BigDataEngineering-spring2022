@@ -35,7 +35,8 @@
 
 | Lecture number | Date | Topic | Slides | Video | 
 | :------------: |:----:| :----:| :-----:| :---: |
-| Lecture 1 | Sunday 1399/11/23 | Course description | - | - |
+| Lecture 1 | Sunday 1399/11/23 | Course description | slide | video |
+
 <br>
 
 # Additional content lectures
