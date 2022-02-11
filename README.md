@@ -44,7 +44,7 @@
 
 | Lecturer | Date | Topics| video | codes |
 | :------: |:----:| :----:| :---: | :---: |
-|  |  |  |  | |
+| - | - | - | - | - |
 <br>
 
 # Assignments 
