@@ -39,13 +39,13 @@
 
 <br>
 
-# Additional content lectures
+<!-- # Additional content lectures
 
 
 | Lecturer | Date | Topics| video | codes |
 | :------: |:----:| :----:| :---: | :---: |
-| - | - | - | - | - |
-<br>
+| Lecture 1 | date | topic | video | codes |
+<br> -->
 
 # Assignments 
 
