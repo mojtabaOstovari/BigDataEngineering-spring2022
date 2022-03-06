@@ -60,7 +60,7 @@
 * [**Assignments**](#assignments) – <b>35%</b>
  
    * [Homework 0](https://github.com/mojtabaOstovari/BigDataEngineering-spring2022/blob/gh-pages/Assignments/00.pdf) – <b></b>
-   * Homework 1 – <b></b>
+   * [Homework 1](https://github.com/mojtabaOstovari/BigDataEngineering-spring2022/blob/gh-pages/Assignments/01.pdf) – <b></b>
    * Homework 2 – <b></b>
    * Homework 3 – <b></b>
    * Homework 4 – <b></b>
