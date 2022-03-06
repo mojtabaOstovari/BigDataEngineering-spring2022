@@ -36,7 +36,7 @@
 | Lecture number | Date | Topic | Slides | Video | 
 | :------------: |:----:| :----:| :-----:| :---: |
 | [Lecture 1](https://github.com/mojtabaOstovari/BigDataEngineering-spring2022/blob/gh-pages/Slides/01-Introduction.pdf) | Sunday 1400/11/24 | Course description | slide | video |
-| [Lecture 1](https://github.com/mojtabaOstovari/BigDataEngineering-spring2022/blob/gh-pages/Slides/02-Protocols.pdf) | Sunday 1400/12/01 | Course description | slide | video |
+| [Lecture 2](https://github.com/mojtabaOstovari/BigDataEngineering-spring2022/blob/gh-pages/Slides/02-Protocols.pdf) | Sunday 1400/12/01 | Course description | slide | video |
 
 <br>
 
