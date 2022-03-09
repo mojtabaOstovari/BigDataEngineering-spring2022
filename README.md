@@ -11,8 +11,7 @@
 # Class Time and Location
 * Sunday and Tuesday 17:00-19:00.
 <br>The class is held virtually in [**VClass**](https://vc.sharif.edu/ch/ostovari.mojtaba).
-
-
+  
 
 # Lectures
 
