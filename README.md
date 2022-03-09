@@ -12,18 +12,6 @@
 * Sunday and Tuesday 17:00-19:00.
 <br>The class is held virtually in [**VClass**](https://vc.sharif.edu/ch/ostovari.mojtaba).
 
-# Presentation Team
-<!-- <table>
-  <tr>
-    <td colspan="5"><center><span style="font-weight:bold">Lecturer</span></center></td>
-  </tr>
-  <tr>
-    <td colspan="2"><center><img src=".\Images\S.jpg" border='0' alt="" height='200' width='200' /></center></td>
-    <td colspan="3"><center><a href="MAILTO:ostovari.mojtaba@gmail.com">Mojtaba Ostovari</a><br>ostovari.mojtaba@gmail.com</center></td>
-  </tr>
- </table> -->
-
-<br>
 
 
 # Lectures
