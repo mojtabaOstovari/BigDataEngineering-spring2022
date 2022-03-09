@@ -25,34 +25,18 @@
 
 <br>
 
-# Calendar
-
-  click on the this [link](https://calendar.google.com/...) due to check course calender and all the events.
-
-<br>
 
 # Lectures
 
 | Lecture number | Date | Topic | Slides | Video | 
 | :------------: |:----:| :----:| :-----:| :---: |
-| [Lecture 1](https://github.com/mojtabaOstovari/BigDataEngineering-spring2022/blob/gh-pages/Slides/01-Introduction.pdf) | Sunday 1400/11/24 | Course description | slide | video |
-| [Lecture 2](https://github.com/mojtabaOstovari/BigDataEngineering-spring2022/blob/gh-pages/Slides/02-Protocols.pdf) | Sunday 1400/12/01 | Course description | slide | video |
+| Lecture 1, 2, 3 | - | Introduction | [Slide](https://github.com/mojtabaOstovari/BigDataEngineering-spring2022/blob/gh-pages/Slides/01-Introduction.pdf) | - |
+| Lecture 4 | Sunday 1400/12/08 | Protocols | [Slide](https://github.com/mojtabaOstovari/BigDataEngineering-spring2022/blob/gh-pages/Slides/02-Protocols.pdf) | - |
+| Lecture 5 | Sunday 1400/12/15 | Docker | - | - |
+| Lecture 6 | Tuesday 1400/12/17 | Docker | - | - |
+
 
 <br>
-
-<!-- # Additional content lectures
-
-
-| Lecturer | Date | Topics| video | codes |
-| :------: |:----:| :----:| :---: | :---: |
-| Lecture 1 | date | topic | video | codes |
-<br> -->
-
-# Assignments 
-
-*  ### Homework 0 ###
-  
-   The first series of exercises released in ...
   
 
 # Grading
