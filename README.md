@@ -22,6 +22,8 @@
 | Lecture 5 | Sunday 1400/12/15 | Docker | - | [Video](https://cw.sharif.edu/pluginfile.php/483414/mod_folder/content/0/b05.mkv?forcedownload=1) |
 | Lecture 6 | Tuesday 1400/12/17 | Docker | - | [Video](https://cw.sharif.edu/pluginfile.php/483414/mod_folder/content/0/b06.7z?forcedownload=1) |
 | Lecture 7-8 | Sunday 1401/01/28 | MapReduce, Hadoop, Spark | [Slide](https://github.com/mojtabaOstovari/BigDataEngineering-spring2022/blob/gh-pages/Slides/MapReduce,Hadoop,Spark.pdf) | - |
+| Lecture - | Sunday 1401/01/28 | MapReduce | [Paper](https://github.com/mojtabaOstovari/BigDataEngineering-spring2022/blob/gh-pages/Slides/MapReduce.pdf) | - |
+| Lecture - | Sunday 1401/01/28 | HadoopHDFS | [Paper](https://github.com/mojtabaOstovari/BigDataEngineering-spring2022/blob/gh-pages/Slides/HadoopHDFS.pdf) | - |
 | Lecture - | Sunday 1401/02/11 | Raft | [Paper](https://github.com/mojtabaOstovari/BigDataEngineering-spring2022/blob/gh-pages/Slides/Raft.pdf) | - |
 | Lecture - | Sunday 1401/02/18 | GFS | [Paper](https://github.com/mojtabaOstovari/BigDataEngineering-spring2022/blob/gh-pages/Slides/GFS.pdf) | - |
 | Lecture - | Sunday 1401/02/18 | BigTable | [Paper](https://github.com/mojtabaOstovari/BigDataEngineering-spring2022/blob/gh-pages/Slides/BigTable.pdf) | - |
