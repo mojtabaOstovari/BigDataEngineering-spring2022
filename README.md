@@ -28,6 +28,7 @@
 | Lecture - | Sunday 1401/02/18 | GFS | [Paper](https://github.com/mojtabaOstovari/BigDataEngineering-spring2022/blob/gh-pages/Slides/GFS.pdf) | - |
 | Lecture - | Sunday 1401/02/18 | BigTable | [Paper](https://github.com/mojtabaOstovari/BigDataEngineering-spring2022/blob/gh-pages/Slides/BigTable.pdf) | - |
 | Lecture - | Tuesday 1401/02/20 | DynamoDB | [Paper](https://github.com/mojtabaOstovari/BigDataEngineering-spring2022/blob/gh-pages/Slides/Dynamo.pdf) | - |
+| Lecture - | Sunday 1401/03/01 | Introduction to Database | [Slide](https://github.com/mojtabaOstovari/BigDataEngineering-spring2022/blob/gh-pages/Slides/Introduction_to_Database.pdf) | - |
 
 
 <br>
